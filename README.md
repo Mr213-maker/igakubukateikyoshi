@@ -17,7 +17,7 @@ GitHub Pages で公開中（※Settings > Pages にて有効化）
 - 通塾不要、**Zoomによるオンライン授業**
 - 学習計画（3ヶ月ごと）＋指導報告書（月1）
 - 圧倒的な **コストパフォーマンス**
-
+！
 ---
 
 ## 💰 授業料金（税込）
@@ -39,13 +39,4 @@ GitHub Pages で公開中（※Settings > Pages にて有効化）
 
 1. [Googleフォームからお問い合わせ](https://docs.google.com/forms/d/1E_0jZ8WJGoaDiQ-1AeJqaRTRzUhMERLDmSPKXQ-YYuk/viewform)
 2. Zoomで体験授業（1時間）
-3. 相性が良ければ入会！
-
----
-
-## ⚙️ 公開方法（GitHub Pages）
-
-1. 上部メニュー「Settings」へ移動
-2. 左メニュー「Pages」を選択
-3. 「Deploy from a branch」→ `main`ブランチ / ルート を選択
-4. 公開URLが表示されます
+3. 相性が良ければ入会
