@@ -7,7 +7,7 @@
 
 GitHub Pages で公開中（※Settings > Pages にて有効化）
 
-📎 URL: `https://あなたのユーザー名.github.io/igakubu-kateikyoshi/`
+📎 URL: `https://Mr213-maker.github.io/igakubu-kateikyoshi/`
 
 ---
 
