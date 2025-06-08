@@ -21,6 +21,7 @@
   <meta name="twitter:card" content="summary_large_image" />
 
   <style>
+    <meta name="google-site-verification" content="OdGK10OESmh-mE_M6EtoriIHfU1bGNzeEgfl67TTrJE" />
     body { font-family: "Helvetica Neue", sans-serif; margin: 0; background-color: #f5f9ff; color: #333; }
     header { background-color: #0077cc; color: white; padding: 20px; text-align: center; }
     nav { background-color: #005fa3; text-align: center; padding: 10px 0; }
