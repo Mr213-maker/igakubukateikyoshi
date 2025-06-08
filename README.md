@@ -2,19 +2,40 @@
 <html lang="ja">
 <head>
   <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <meta name="description" content="現役医学生によるオンライン個別指導。医学部受験に特化した低価格で高品質な家庭教師サービスです。" />
-  <meta name="keywords" content="医学部, 家庭教師, オンライン指導, 医学部受験, 医学生, Zoom授業" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>医学部家庭教師掲示板 | 現役医学生によるオンライン個別指導</title>
+
+  <!-- ✅ SEO対策タグ -->
+  <meta name="description" content="現役医学生によるオンライン個別指導。月額2.5万円〜。Zoomで全国どこでも指導。体験授業も受付中。">
+  <meta name="keywords" content="医学部, 家庭教師, 医学生, オンライン授業, 個別指導, Zoom, 医学部受験" />
   <meta name="author" content="医学部家庭教師掲示板" />
-  <meta property="og:title" content="医学部家庭教師掲示板" />
-  <meta property="og:description" content="現役医学生によるオンライン個別指導。医学部受験に最適な家庭教師サービス。" />
-  <meta property="og:type" content="website" />
-  <meta property="og:url" content="https://yourusername.github.io/yourrepo/" />
-  <meta property="og:image" content="https://yourusername.github.io/yourrepo/og-image.png" />
-  <meta name="google-site-verification" content="OdGK10OESmh-mE_M6EtoriIHfU1bGNzeEgfl67TTrJE" />
   <link rel="canonical" href="https://yourusername.github.io/yourrepo/" />
-  <title>医学部家庭教師掲示板</title>
-  <link rel="stylesheet" href="style.css" />
+
+  <!-- ✅ OGP -->
+  <meta property="og:title" content="医学部家庭教師掲示板" />
+  <meta property="og:description" content="現役医学生によるオンライン指導。月額2.5万円〜。Zoomで自宅受講可能。" />
+  <meta property="og:image" content="https://yourusername.github.io/yourrepo/images/ogp-image.png" />
+  <meta property="og:url" content="https://yourusername.github.io/yourrepo/" />
+  <meta property="og:type" content="website" />
+  <meta property="og:locale" content="ja_JP" />
+  <meta name="twitter:card" content="summary_large_image" />
+
+  <style>
+    body { font-family: "Helvetica Neue", sans-serif; margin: 0; background-color: #f5f9ff; color: #333; }
+    header { background-color: #0077cc; color: white; padding: 20px; text-align: center; }
+    nav { background-color: #005fa3; text-align: center; padding: 10px 0; }
+    nav a { color: white; text-decoration: none; margin: 0 15px; }
+    section { padding: 40px 20px; max-width: 1000px; margin: auto; }
+    h2 { color: #005fa3; margin-bottom: 20px; }
+    .feature-cards { display: flex; flex-wrap: wrap; gap: 20px; justify-content: center; }
+    .card { background-color: #ffffff; border: 1px solid #ccc; border-radius: 8px; width: 280px; padding: 20px; text-align: center; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); }
+    .card img { width: 80px; height: 80px; margin-bottom: 15px; }
+    .pricing-table { width: 100%; border-collapse: collapse; }
+    .pricing-table th, .pricing-table td { border: 1px solid #ccc; padding: 12px; text-align: center; }
+    details { background: #fff; border: 1px solid #ccc; border-radius: 5px; padding: 15px; margin-bottom: 10px; }
+    summary { font-weight: bold; cursor: pointer; }
+    .footer { background-color: #eee; text-align: center; padding: 20px; font-size: 14px; }
+  </style>
 </head>
 <body>
   <header>
