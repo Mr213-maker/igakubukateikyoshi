@@ -21,7 +21,7 @@
   <meta name="twitter:card" content="summary_large_image" />
 
   <style>
-    <meta name="google-site-verification" content="OdGK10OESmh-mE_M6EtoriIHfU1bGNzeEgfl67TTrJE" /> body { font-family: "Helvetica Neue", sans-serif; margin: 0; background-color: #f5f9ff; color: #333; }
+    body { font-family: "Helvetica Neue", sans-serif; margin: 0; background-color: #f5f9ff; color: #333; }
     header { background-color: #0077cc; color: white; padding: 20px; text-align: center; }
     nav { background-color: #005fa3; text-align: center; padding: 10px 0; }
     nav a { color: white; text-decoration: none; margin: 0 15px; }
@@ -35,7 +35,7 @@
     .footer { background-color: #eee; text-align: center; padding: 20px; font-size: 14px; }
   </style>
 </head>
-<body>
+<meta name="google-site-verification" content="OdGK10OESmh-mE_M6EtoriIHfU1bGNzeEgfl67TTrJE" /><body>
   <header>
     <h1>医学部家庭教師掲示板</h1>
     <p>現役医学生によるオンライン個別指導</p>
