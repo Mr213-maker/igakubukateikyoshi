@@ -1,3 +1,4 @@
+<!DOCTYPE html>
 <html lang="ja">
 <head>
   <meta charset="UTF-8" />
@@ -10,7 +11,7 @@
   <meta name="author" content="医学部家庭教師掲示板" />
   <link rel="canonical" href="https://yourusername.github.io/yourrepo/" />
 
-  <!-- ✅ OGP（SNSシェア用） -->
+  <!-- ✅ OGP -->
   <meta property="og:title" content="医学部家庭教師掲示板" />
   <meta property="og:description" content="現役医学生によるオンライン指導。月額2.5万円〜。Zoomで自宅受講可能。" />
   <meta property="og:image" content="https://yourusername.github.io/yourrepo/images/ogp-image.png" />
@@ -31,6 +32,8 @@
     .card img { width: 80px; height: 80px; margin-bottom: 15px; }
     .pricing-table { width: 100%; border-collapse: collapse; }
     .pricing-table th, .pricing-table td { border: 1px solid #ccc; padding: 12px; text-align: center; }
+    details { background: #fff; border: 1px solid #ccc; border-radius: 5px; padding: 15px; margin-bottom: 10px; }
+    summary { font-weight: bold; cursor: pointer; }
     .footer { background-color: #eee; text-align: center; padding: 20px; font-size: 14px; }
   </style>
 </head>
@@ -44,6 +47,7 @@
     <a href="#pricing">料金</a>
     <a href="#trial">体験授業</a>
     <a href="#fee">紹介料</a>
+    <a href="#faq">よくある質問</a>
     <a href="https://docs.google.com/forms/d/1E_0jZ8WJGoaDiQ-1AeJqaRTRzUhMERLDmSPKXQ-YYuk/viewform" target="_blank" rel="noopener noreferrer">お問い合わせ</a>
   </nav>
 
@@ -100,6 +104,28 @@
     <h2>紹介手数料</h2>
     <p>紹介料：<strong>20,000円</strong></p>
     <p>女性講師をご希望の場合：追加<strong>6,000円</strong></p>
+  </section>
+
+  <section id="faq">
+    <h2>よくある質問（FAQ）</h2>
+    <div style="max-width: 800px; margin: auto;">
+      <details>
+        <summary><strong>受講で必要なものはありますか？</strong></summary>
+        <p>Zoomが使える<strong>タブレット端末</strong>（またはPC）と、必要な<strong>教材</strong>をご用意ください。</p>
+      </details>
+      <details>
+        <summary><strong>教材はなにを使いますか？</strong></summary>
+        <p>生徒様に合わせて、<strong>学校教材</strong>や市販の参考書・問題集を使用します。ご相談のうえ決定します。</p>
+      </details>
+      <details>
+        <summary><strong>指導可能な科目は何がありますか？</strong></summary>
+        <p><strong>英語・数学・理科</strong>（物理・化学・生物）に加え、<strong>小論文や面接対策</strong>にも対応可能です。</p>
+      </details>
+      <details>
+        <summary><strong>先生に質問はできますか？</strong></summary>
+        <p>はい、<strong>基本的にいつでも質問可能</strong>です。LINEやチャットでのやり取りにも対応しています。</p>
+      </details>
+    </div>
   </section>
 
   <div class="footer">
