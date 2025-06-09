@@ -37,6 +37,7 @@
     .footer { background-color: #eee; text-align: center; padding: 20px; font-size: 14px; }
   </style>
 </head>
+<meta name="google-site-verification" content="OdGK10OESmh-mE_M6EtoriIHfU1bGNzeEgfl67TTrJE" />
 <body>
   <header>
     <h1>医学部家庭教師掲示板</h1>
