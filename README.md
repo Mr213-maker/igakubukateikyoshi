@@ -6,6 +6,7 @@
   <title>医学部家庭教師掲示板</title>
   <link rel="icon" type="image/png" href="favicon.png">
   <style>
+    <meta name="google-site-verification" content="aJMFhi2usWxIaSwBxkx3q_ppR0gq9APX4zNqL0xaqFk" />
     body {
       font-family: "Helvetica Neue", sans-serif;
       margin: 0;
