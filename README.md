@@ -2,76 +2,149 @@
 <html lang="ja">
 <head>
   <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <title>医学部家庭教師掲示板 | 現役医学生によるオンライン個別指導</title>
-
-  <!-- ✅ SEO対策タグ -->
-  <meta name="description" content="現役医学生によるオンライン個別指導。月額2.5万円〜。Zoomで全国どこでも指導。体験授業も受付中。">
-  <meta name="keywords" content="医学部, 家庭教師, 医学生, オンライン授業, 個別指導, Zoom, 医学部受験" />
-  <meta name="author" content="医学部家庭教師掲示板" />
-  <link rel="canonical" href="https://yourusername.github.io/yourrepo/" />
-
-  <!-- ✅ OGP -->
-  <meta property="og:title" content="医学部家庭教師掲示板" />
-  <meta property="og:description" content="現役医学生によるオンライン指導。月額2.5万円〜。Zoomで自宅受講可能。" />
-  <meta property="og:image" content="https://yourusername.github.io/yourrepo/images/ogp-image.png" />
-  <meta property="og:url" content="https://yourusername.github.io/yourrepo/" />
-  <meta property="og:type" content="website" />
-  <meta property="og:locale" content="ja_JP" />
-  <meta name="twitter:card" content="summary_large_image" />
-
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>医学部家庭教師掲示板</title>
+  <link rel="icon" type="image/png" href="favicon.png">
   <style>
-    body { font-family: "Helvetica Neue", sans-serif; margin: 0; background-color: #f5f9ff; color: #333; }
-    header { background-color: #0077cc; color: white; padding: 20px; text-align: center; }
-    nav { background-color: #005fa3; text-align: center; padding: 10px 0; }
-    nav a { color: white; text-decoration: none; margin: 0 15px; }
-    section { padding: 40px 20px; max-width: 1000px; margin: auto; }
-    h2 { color: #005fa3; margin-bottom: 20px; }
-    .feature-cards { display: flex; flex-wrap: wrap; gap: 20px; justify-content: center; }
-    .card { background-color: #ffffff; border: 1px solid #ccc; border-radius: 8px; width: 280px; padding: 20px; text-align: center; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); }
-    .card img { width: 80px; height: 80px; margin-bottom: 15px; }
-    .pricing-table { width: 100%; border-collapse: collapse; }
-    .pricing-table th, .pricing-table td { border: 1px solid #ccc; padding: 12px; text-align: center; }
-    details { background: #fff; border: 1px solid #ccc; border-radius: 5px; padding: 15px; margin-bottom: 10px; }
-    summary { font-weight: bold; cursor: pointer; }
-    .footer { background-color: #eee; text-align: center; padding: 20px; font-size: 14px; }
+    body {
+      font-family: "Helvetica Neue", sans-serif;
+      margin: 0;
+      background-color: #f5f9ff;
+      color: #333;
+      line-height: 1.8;
+      font-size: 16px;
+    }
+    header {
+      background-color: #0077cc;
+      color: white;
+      padding: 30px 20px;
+      text-align: center;
+    }
+    header img {
+      height: 120px;
+      margin-bottom: 10px;
+    }
+    nav {
+      background-color: #005fa3;
+      text-align: center;
+      padding: 10px 0;
+    }
+    nav a {
+      color: white;
+      text-decoration: none;
+      margin: 0 15px;
+      font-weight: bold;
+    }
+    nav a.contact-btn {
+      background-color: #ff9800;
+      color: white;
+      padding: 8px 15px;
+      border-radius: 5px;
+      margin-left: 15px;
+    }
+    section {
+      padding: 50px 20px;
+      max-width: 1000px;
+      margin: auto;
+    }
+    section:nth-child(even) {
+      background-color: #ffffff;
+    }
+    section:nth-child(odd) {
+      background-color: #eef6ff;
+    }
+    h2 {
+      color: #005fa3;
+      margin-bottom: 20px;
+      text-align: center;
+    }
+    .feature-cards {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 20px;
+      justify-content: center;
+    }
+    .card {
+      background-color: #ffffff;
+      border: 1px solid #ccc;
+      border-radius: 8px;
+      width: 280px;
+      padding: 20px;
+      text-align: center;
+      box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    }
+    .card img {
+      width: 80px;
+      height: 80px;
+      margin-bottom: 15px;
+    }
+    .pricing-table {
+      width: 100%;
+      border-collapse: collapse;
+    }
+    .pricing-table th, .pricing-table td {
+      border: 1px solid #ccc;
+      padding: 12px;
+      text-align: center;
+    }
+    .faq-item {
+      background-color: #fff;
+      border-left: 4px solid #0077cc;
+      padding: 15px 20px;
+      margin-bottom: 20px;
+      box-shadow: 0 2px 4px rgba(0,0,0,0.05);
+    }
+    .faq-item h3 {
+      color: #005fa3;
+      margin-bottom: 8px;
+    }
+    ol {
+      padding-left: 20px;
+    }
+    .footer {
+      background-color: #eee;
+      text-align: center;
+      padding: 20px;
+      font-size: 14px;
+    }
   </style>
 </head>
-<meta name="google-site-verification" content="OdGK10OESmh-mE_M6EtoriIHfU1bGNzeEgfl67TTrJE" />
 <body>
   <header>
+    <img src="header_logo.png" alt="医学部家庭教師ロゴ">
     <h1>医学部家庭教師掲示板</h1>
     <p>現役医学生によるオンライン個別指導</p>
   </header>
+
   <nav>
     <a href="#features">特徴</a>
     <a href="#pricing">料金</a>
     <a href="#trial">体験授業</a>
     <a href="#fee">紹介料</a>
-    <a href="#faq">よくある質問</a>
-    <a href="https://docs.google.com/forms/d/1E_0jZ8WJGoaDiQ-1AeJqaRTRzUhMERLDmSPKXQ-YYuk/viewform" target="_blank" rel="noopener noreferrer">お問い合わせ</a>
+    <a href="#faq">FAQ</a>
+    <a href="https://docs.google.com/forms/d/1E_0jZ8WJGoaDiQ-1AeJqaRTRzUhMERLDmSPKXQ-YYuk/viewform" target="_blank" rel="noopener noreferrer" class="contact-btn">お問い合わせ</a>
   </nav>
 
   <section id="features">
     <h2>サービスの特徴</h2>
     <div class="feature-cards">
       <div class="card">
-        <img src="https://img.icons8.com/ios-filled/100/medical-doctor.png" alt="現役医学生による指導">
+        <img src="https://img.icons8.com/fluency/96/medical-doctor.png" alt="現役医学生による指導">
         <h3>現役医学生による指導</h3>
         <p>医学部在学中の講師が最新の知識で指導します。</p>
       </div>
       <div class="card">
-        <img src="https://img.icons8.com/ios-filled/100/video-call.png" alt="Zoomを使った指導">
+        <img src="https://img.icons8.com/fluency/96/video-call.png" alt="Zoomを使った指導">
         <h3>Zoomを用いたオンライン授業</h3>
         <p>通塾不要。自宅で安心して受講可能です。</p>
       </div>
       <div class="card">
-        <img src="https://img.icons8.com/ios-filled/100/money.png" alt="低価格">
+        <img src="https://img.icons8.com/fluency/96/money.png" alt="低価格">
         <h3>無駄を省いた低価格</h3>
         <p>通塾コスト削減により価格を抑えました。</p>
       </div>
       <div class="card">
-        <img src="https://img.icons8.com/ios-filled/100/task.png" alt="学習計画と報告書">
+        <img src="https://img.icons8.com/fluency/96/task.png" alt="学習計画と報告書">
         <h3>学習計画と報告書</h3>
         <p>3ヶ月ごとの学習計画と月1回の報告書でサポート。</p>
       </div>
@@ -108,24 +181,26 @@
   </section>
 
   <section id="faq">
-    <h2>よくある質問（FAQ）</h2>
-    <div style="max-width: 800px; margin: auto;">
-      <details>
-        <summary><strong>受講で必要なものはありますか？</strong></summary>
-        <p>Zoomが使える<strong>タブレット端末</strong>（またはPC）と、必要な<strong>教材</strong>をご用意ください。</p>
-      </details>
-      <details>
-        <summary><strong>教材はなにを使いますか？</strong></summary>
-        <p>生徒様に合わせて、<strong>学校教材</strong>や市販の参考書・問題集を使用します。ご相談のうえ決定します。</p>
-      </details>
-      <details>
-        <summary><strong>指導可能な科目は何がありますか？</strong></summary>
-        <p><strong>英語・数学・理科</strong>（物理・化学・生物）に加え、<strong>小論文や面接対策</strong>にも対応可能です。</p>
-      </details>
-      <details>
-        <summary><strong>先生に質問はできますか？</strong></summary>
-        <p>はい、<strong>基本的にいつでも質問可能</strong>です。LINEやチャットでのやり取りにも対応しています。</p>
-      </details>
+    <h2>よくある質問</h2>
+    <div class="faq-item">
+      <h3>Q. 講師はどのような人ですか？</h3>
+      <p>A. すべて現役の医学部生で、厳選された指導経験のある講師のみをご紹介しています。</p>
+    </div>
+    <div class="faq-item">
+      <h3>Q. 指導の対象学年は？</h3>
+      <p>A. 中学生・高校生（医学部志望者）を中心に、浪人生や再受験生にも対応可能です。</p>
+    </div>
+    <div class="faq-item">
+      <h3>Q. 授業はいつ行われますか？</h3>
+      <p>A. 講師と相談のうえ、曜日・時間帯を柔軟に設定可能です。</p>
+    </div>
+    <div class="faq-item">
+      <h3>Q. どのような生徒が対象ですか？</h3>
+      <p>A. 中学生、高校生、浪人生、再受験生など、医学部を目指す幅広い層を対象としています。</p>
+    </div>
+    <div class="faq-item">
+      <h3>Q. 受講に必要なものはありますか？</h3>
+      <p>A. パソコンやタブレットなどの端末と、安定したWi-Fi環境があれば受講可能です。</p>
     </div>
   </section>
 
