@@ -7,7 +7,7 @@
   <link rel="icon" type="image/png" href="favicon.png">
   <style>
     <meta name="google-site-verification" content="aJMFhi2usWxIaSwBxkx3q_ppR0gq9APX4zNqL0xaqFk" />
-    body {
+    ＜body＞ {
       font-family: "Helvetica Neue", sans-serif;
       margin: 0;
       background-color: #f5f9ff;
