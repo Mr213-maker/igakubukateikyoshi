@@ -73,6 +73,7 @@
 
   <section id="growth_reason">
     <h2>成績が伸びる理由：医学部受験を知り尽くした医学生による徹底管理と完全理解</h2>
+    <img src="http://googleusercontent.com/generated_image_content/0" alt="喜ぶ生徒と親" style="width: 100%; height: auto; border-radius: 8px; margin-bottom: 20px;">
     <p>当サービスでは、生徒様の成績向上を確実なものにするため、以下の2つの柱で指導を行います。</p>
 
     <h3>1. 医学部受験を知り尽くした医学生によるオーダーメイド学習管理</h3>
