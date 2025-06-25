@@ -18,7 +18,7 @@
     .pricing-table th, .pricing-table td { border: 1px solid #ccc; padding: 12px; text-align: center; }
     .footer { background-color: #eee; text-align: center; padding: 20px; font-size: 14px; }
     .hero-img { text-align: center; margin-top: 10px; }
-    .hero-img img { max-width: 100%; height: auto; border-radius: 10px; }
+    .hero-img img { max-width: 80%; height: auto; border-radius: 10px; } /* max-widthを80%に変更 */
   </style>
 </head>
 <body>
@@ -28,7 +28,7 @@
   </header>
 
   <div class="hero-img">
-    <img src="http://googleusercontent.com/generated_image_content/0"
+    <img src="http://googleusercontent.com/image_generation_content/7"
          alt="医学部家庭教師のイメージ">
   </div>
 
