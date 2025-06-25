@@ -28,7 +28,7 @@
   </header>
 
   <div class="hero-img">
-    <img src="https://images.unsplash.com/photo-1607746882042-944635dfe10e" 
+    <img src="http://googleusercontent.com/generated_image_content/0"
          alt="医学部家庭教師のイメージ">
   </div>
 
