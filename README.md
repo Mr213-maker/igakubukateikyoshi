@@ -46,6 +46,7 @@
       <div class="card">
         <img src="https://img.icons8.com/ios-filled/100/medical-doctor.png" alt="現役医学生による指導">
         <h3>現役医学生による指導</h3>
+        <img src="http://googleusercontent.com/generated_image_content/0" alt="医学生のイメージ" style="width: 100%; height: auto; border-radius: 8px; margin-top: 15px;">
         <p>医学部在学中の講師が最新の知識で指導します。</p>
       </div>
       <div class="card">
@@ -57,6 +58,7 @@
       <div class="card">
         <img src="https://img.icons8.com/ios-filled/100/money.png" alt="低価格">
         <h3>無駄を省いた低価格</h3>
+        <img src="http://googleusercontent.com/generated_image_content/1" alt="お財布のイメージ" style="width: 100%; height: auto; border-radius: 8px; margin-top: 15px;">
         <p>通塾コスト削減により価格を抑えました。</p>
       </div>
       <div class="card">
