@@ -34,6 +34,7 @@
 
   <nav>
     <a href="#features">特徴</a>
+    <a href="#growth_reason">成績が伸びる理由</a>
     <a href="#pricing">料金</a>
     <a href="#trial">体験授業</a>
     <a href="#fee">紹介料</a>
@@ -46,7 +47,7 @@
       <div class="card">
         <img src="https://img.icons8.com/ios-filled/100/medical-doctor.png" alt="現役医学生による指導">
         <h3>現役医学生による指導</h3>
-        <img src="http://googleusercontent.com/generated_image_content/0" alt="医学生のイメージ" style="width: 100%; height: auto; border-radius: 8px; margin-top: 15px;">
+        <img src="http://googleusercontent.com/image_generation_content/8" alt="医学生のイメージ" style="width: 100%; height: auto; border-radius: 8px; margin-top: 15px;">
         <p>医学部在学中の講師が最新の知識で指導します。</p>
       </div>
       <div class="card">
@@ -58,7 +59,7 @@
       <div class="card">
         <img src="https://img.icons8.com/ios-filled/100/money.png" alt="低価格">
         <h3>無駄を省いた低価格</h3>
-        <img src="http://googleusercontent.com/generated_image_content/1" alt="お財布のイメージ" style="width: 100%; height: auto; border-radius: 8px; margin-top: 15px;">
+        <img src="http://googleusercontent.com/image_generation_content/9" alt="お財布のイメージ" style="width: 100%; height: auto; border-radius: 8px; margin-top: 15px;">
         <p>通塾コスト削減により価格を抑えました。</p>
       </div>
       <div class="card">
@@ -68,6 +69,27 @@
         <p>3ヶ月ごとの学習計画と月1回の報告書でサポート。</p>
       </div>
     </div>
+  </section>
+
+  <section id="growth_reason">
+    <h2>成績が伸びる理由：医学部受験を知り尽くした医学生による徹底管理と完全理解</h2>
+    <p>当サービスでは、生徒様の成績向上を確実なものにするため、以下の2つの柱で指導を行います。</p>
+
+    <h3>1. 医学部受験を知り尽くした医学生によるオーダーメイド学習管理</h3>
+    <p>現役医学生である講師陣は、自らが難関医学部受験を突破してきた経験と知識を持っています。そのため、医学部合格に必要な学力はもちろんのこと、合格へのプロセスを熟知しています。</p>
+    <ul>
+      <li><strong>個別最適化された学習スケジュールの立案</strong>: 生徒様一人ひとりの学力、学習状況、志望校、得意・苦手科目を詳細に分析し、合格から逆算した最適な学習スケジュールを立案します。</li>
+      <li><strong>進捗の徹底管理と柔軟な調整</strong>: 計画通りに進んでいるか、どこでつまずいているかを常に把握し、必要に応じてスケジュールを柔軟に調整します。日々の学習管理を徹底することで、生徒様が迷うことなく、常に目標に向かって効率的に学習を進められるようサポートします。</li>
+    </ul>
+
+    <h3>2. 毎回のカリキュラムテストと「わからない」を残さない徹底理解</h3>
+    <p>「わからない」をそのままにしないことが、成績を飛躍的に伸ばす最も重要な要素です。当サービスでは、この点を徹底的に重視します。</p>
+    <ul>
+      <li><strong>カリキュラムテストによる定着度確認</strong>: 毎回の授業内容に合わせたカリキュラムテストを実施し、その場で理解度を測ります。これにより、生徒様自身もどこが理解できていないかを明確に把握できます。</li>
+      <li><strong>「わからない」の即時解決</strong>: テストで判明した「わからない」箇所や、生徒様が疑問に感じた点は、その場で医学生講師が丁寧に解説し、完全に理解できるまで指導します。これにより、知識の穴を徹底的に埋め、次に進むことができます。</li>
+      <li><strong>根本理解を促す指導</strong>: 単なる問題の解法だけでなく、なぜそうなるのか、どういう原理で成り立っているのかといった根本的な理解を促すことで、応用力を高め、どんな問題にも対応できる真の学力を養います。</li>
+    </ul>
+    <p>これらの徹底した学習管理と「わからない」を残さない指導により、生徒様は効率的に、かつ着実に実力を伸ばし、医学部合格へと導かれます。</p>
   </section>
 
   <section id="pricing">
