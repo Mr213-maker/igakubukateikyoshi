@@ -28,7 +28,7 @@
   </header>
 
   <div class="hero-img">
-    <img src="http://googleusercontent.com/image_generation_content/7"
+    <img src="http://googleusercontent.com/generated_image_content/4"
          alt="医学部家庭教師のイメージ">
   </div>
 
@@ -47,25 +47,25 @@
       <div class="card">
         <img src="https://img.icons8.com/ios-filled/100/medical-doctor.png" alt="現役医学生による指導">
         <h3>現役医学生による指導</h3>
-        <img src="http://googleusercontent.com/image_generation_content/8" alt="医学生のイメージ" style="width: 100%; height: auto; border-radius: 8px; margin-top: 15px;">
+        <img src="http://googleusercontent.com/generated_image_content/0" alt="医学生のイメージ" style="width: 100%; height: auto; border-radius: 8px; margin-top: 15px;">
         <p>医学部在学中の講師が最新の知識で指導します。</p>
       </div>
       <div class="card">
         <img src="https://img.icons8.com/ios-filled/100/video-call.png" alt="Zoomを使った指導">
         <h3>Zoomを用いたオンライン授業</h3>
-        <img src="http://googleusercontent.com/image_generation_content/2" alt="Zoomを使った指導のイメージ" style="width: 100%; height: auto; border-radius: 8px; margin-top: 15px;">
+        <img src="http://googleusercontent.com/generated_image_content/2" alt="Zoomを使った指導のイメージ" style="width: 100%; height: auto; border-radius: 8px; margin-top: 15px;">
         <p>通塾不要。自宅で安心して受講可能です。</p>
       </div>
       <div class="card">
         <img src="https://img.icons8.com/ios-filled/100/money.png" alt="低価格">
         <h3>無駄を省いた低価格</h3>
-        <img src="http://googleusercontent.com/image_generation_content/9" alt="お財布のイメージ" style="width: 100%; height: auto; border-radius: 8px; margin-top: 15px;">
+        <img src="http://googleusercontent.com/generated_image_content/3" alt="お財布のイメージ" style="width: 100%; height: auto; border-radius: 8px; margin-top: 15px;">
         <p>通塾コスト削減により価格を抑えました。</p>
       </div>
       <div class="card">
         <img src="https://img.icons8.com/ios-filled/100/task.png" alt="学習計画と報告書">
         <h3>学習計画と報告書</h3>
-        <img src="http://googleusercontent.com/image_generation_content/5" alt="学習イメージ" style="width: 100%; height: auto; border-radius: 8px; margin-top: 15px;">
+        <img src="http://googleusercontent.com/generated_image_content/1" alt="学習イメージ" style="width: 100%; height: auto; border-radius: 8px; margin-top: 15px;">
         <p>3ヶ月ごとの学習計画と月1回の報告書でサポート。</p>
       </div>
     </div>
@@ -73,7 +73,7 @@
 
   <section id="growth_reason">
     <h2>成績が伸びる理由：医学部受験を知り尽くした医学生による徹底管理と完全理解</h2>
-    <img src="http://googleusercontent.com/generated_image_content/0" alt="喜ぶ生徒と親" style="width: 100%; height: auto; border-radius: 8px; margin-bottom: 20px;">
+    <img src="http://googleusercontent.com/generated_image_content/5" alt="喜ぶ生徒と親" style="width: 100%; height: auto; border-radius: 8px; margin-bottom: 20px;">
     <p>当サービスでは、生徒様の成績向上を確実なものにするため、以下の2つの柱で指導を行います。</p>
 
     <h3>1. 医学部受験を知り尽くした医学生によるオーダーメイド学習管理</h3>
