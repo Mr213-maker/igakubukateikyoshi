@@ -29,7 +29,7 @@
 
   <div class="hero-img">
     <img src="[ヒーローイメージの新しいURLをここに貼り付け]"
-         alt="医学部家庭教師のイメージ">
+         alt="https://share.icloud.com/photos/01dCadTFYotshMFsfxhJziqdA">
   </div>
 
   <nav>
