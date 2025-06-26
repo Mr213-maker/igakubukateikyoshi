@@ -28,7 +28,7 @@
   </header>
 
   <div class="hero-img">
-    <img src="[ヒーローイメージの新しいURLをここに貼り付け]"
+    <img src="[https://drive.google.com/file/d/16alVcbc5U033t4XS44XTgrKmBkUxoVub/view?usp=drivesdk]"
          alt="https://share.icloud.com/photos/01dCadTFYotshMFsfxhJziqdA">
   </div>
 
