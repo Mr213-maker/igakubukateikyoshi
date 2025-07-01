@@ -23,7 +23,7 @@
   <meta property="og:locale" content="ja_JP" />
 
   <meta name="twitter:card" content="summary_large_image" />
-  <meta name="twitter:site" content="@your_twitter_account" /> <meta name="twitter:creator" content="@your_twitter_account" /> <meta name="twitter:title" content="医学部家庭教師掲示板 | 現役医学生によるオンライン個別指導" />
+  <meta name="twitter:site" content="@your_twitter_account" /> <meta name="twitter:creator" content="@igakubu2025" /> <meta name="医学部家庭教師掲示板" content="医学部家庭教師掲示板 | 現役医学生によるオンライン個別指導" />
   <meta name="twitter:description" content="現役医学生がオンラインで医学部受験を徹底サポート。個別最適化された学習計画と「わからない」を残さない徹底指導で、あなたの医学部合格を強力に支援します。" />
   <meta name="twitter:image" content="https://www.yourdomain.com/images/twitter-card-image.jpg" /> <title>医学部家庭教師掲示板</title>
   <style>
