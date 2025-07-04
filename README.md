@@ -127,6 +127,7 @@
   </ul>
 </section>
 
+
 <section id="our-tutors">
     <h2>登録講師のご紹介</h2>
     <p>当掲示板には、医学部受験を熟知した経験豊富な家庭教師が多数登録しています。現役医大生からプロ講師まで、あなたの学習を強力にサポートします。</p>
@@ -139,17 +140,6 @@
             <p><strong>選択科目:</strong> 物理、化学、地理</p>
             <p><strong>一言:</strong> 一緒に頑張りましょう。</p>
         </article>
-        <script type="application/ld+json">
-        {
-          "@context": "https://schema.org",
-          "@type": "Person",
-          "name": "エゾニュウ",
-          "description": "北海道大学医学部医学科の家庭教師エゾニュウです。物理、化学、地理の指導が得意です。",
-          "alumniOf": {"@type": "EducationalOrganization", "name": "北海道大学医学部医学科"},
-          "hasOccupation": {"@type": "Occupation", "name": "医学部家庭教師", "skills": ["物理", "化学", "地理", "医学部受験指導"]},
-          "worksFor": {"@type": "Organization", "name": "医学部家庭教師掲示板"}
-        }
-        </script>
 
         <article class="tutor-card">
             <h3>岡山大学医学部 家庭教師：レイブル先生</h3>
@@ -157,17 +147,6 @@
             <p><strong>選択科目:</strong> 物理化学、公共政経</p>
             <p><strong>一言:</strong> 頭の使い方を学び、頭をよくして合格しましょう！やり方をきちんと伝えます！特に多浪生のあなた！！</p>
         </article>
-        <script type="application/ld+json">
-        {
-          "@context": "https://schema.org",
-          "@type": "Person",
-          "name": "レイブル",
-          "description": "岡山大学医学部1年のレイブルです。物理、化学、公共政経の指導に加え、効率的な学習法を伝授します。",
-          "alumniOf": {"@type": "EducationalOrganization", "name": "岡山大学医学部"},
-          "hasOccupation": {"@type": "Occupation", "name": "医学部家庭教師", "skills": ["物理", "化学", "公共政経", "多浪生指導", "学習戦略"]},
-          "worksFor": {"@type": "Organization", "name": "医学部家庭教師掲示板"}
-        }
-        </script>
 
         <article class="tutor-card">
             <h3>東京科学大学 家庭教師：エグユ先生</h3>
@@ -175,17 +154,6 @@
             <p><strong>選択科目:</strong> 物理／化学、地理</p>
             <p><strong>一言:</strong> 参考書で計画的に勉強し合格した経験を活かして、徹底的にサポートしていきます！よろしくお願いします！</p>
         </article>
-        <script type="application/ld+json">
-        {
-          "@context": "https://schema.org",
-          "@type": "Person",
-          "name": "エグユ",
-          "description": "東京科学大学2年のエグユです。参考書を活用した計画的な学習法で、物理、化学、地理の指導を行います。",
-          "alumniOf": {"@type": "EducationalOrganization", "name": "東京科学大学"},
-          "hasOccupation": {"@type": "Occupation", "name": "医学部家庭教師", "skills": ["物理", "化学", "地理", "参考書学習法", "計画的学習"]},
-          "worksFor": {"@type": "Organization", "name": "医学部家庭教師掲示板"}
-        }
-        </script>
         
         <article class="tutor-card">
             <h3>大阪大学医学部医学科 家庭教師：KC先生</h3>
@@ -193,17 +161,6 @@
             <p><strong>選択科目:</strong> 物化、地理選択</p>
             <p><strong>一言:</strong> 一緒に頑張りましょう</p>
         </article>
-        <script type="application/ld+json">
-        {
-          "@context": "https://schema.org",
-          "@type": "Person",
-          "name": "KC",
-          "description": "大阪大学医学部医学科1年のKCです。物理、化学、地理の指導で一緒に合格を目指しましょう。",
-          "alumniOf": {"@type": "EducationalOrganization", "name": "大阪大学医学部医学科"},
-          "hasOccupation": {"@type": "Occupation", "name": "医学部家庭教師", "skills": ["物理", "化学", "地理", "医学部受験指導"]},
-          "worksFor": {"@type": "Organization", "name": "医学部家庭教師掲示板"}
-        }
-        </script>
 
         <article class="tutor-card">
             <h3>大阪大学 家庭教師：KT先生</h3>
@@ -211,17 +168,6 @@
             <p><strong>選択科目:</strong> 物理/化学、地理</p>
             <p><strong>一言:</strong> 一人一人に適した指導を行い、確実な学力アップを約束します。</p>
         </article>
-        <script type="application/ld+json">
-        {
-          "@context": "https://schema.org",
-          "@type": "Person",
-          "name": "KT",
-          "description": "大阪大学1年のKTです。物理、化学、地理の指導で、一人ひとりに合わせた確実な学力アップをお約束します。",
-          "alumniOf": {"@type": "EducationalOrganization", "name": "大阪大学"},
-          "hasOccupation": {"@type": "Occupation", "name": "医学部家庭教師", "skills": ["物理", "化学", "地理", "個別指導", "学力向上"]},
-          "worksFor": {"@type": "Organization", "name": "医学部家庭教師掲示板"}
-        }
-        </script>
         
         <article class="tutor-card">
             <h3>千葉大学医学部 家庭教師：RS先生</h3>
@@ -229,17 +175,6 @@
             <p><strong>選択科目:</strong> 物理、化学、日本史</p>
             <p><strong>一言:</strong> 数学を基礎から徹底的に教えるのが得意です。お力になられるように頑張ります！</p>
         </article>
-        <script type="application/ld+json">
-        {
-          "@context": "https://schema.org",
-          "@type": "Person",
-          "name": "RS",
-          "description": "千葉大学医学部4年のRSです。物理、化学、日本史に加え、数学の基礎指導も得意としています。",
-          "alumniOf": {"@type": "EducationalOrganization", "name": "千葉大学医学部"},
-          "hasOccupation": {"@type": "Occupation", "name": "医学部家庭教師", "skills": ["物理", "化学", "日本史", "数学基礎"]},
-          "worksFor": {"@type": "Organization", "name": "医学部家庭教師掲示板"}
-        }
-        </script>
 
         <article class="tutor-card">
             <h3>東北大学医学部医学科 家庭教師：ten先生</h3>
@@ -247,17 +182,6 @@
             <p><strong>選択科目:</strong> 物理化学、世界史</p>
             <p><strong>一言:</strong> 一緒に成績上げましょう！</p>
         </article>
-        <script type="application/ld+json">
-        {
-          "@context": "https://schema.org",
-          "@type": "Person",
-          "name": "ten",
-          "description": "東北大学医学部医学科1年のtenです。物理、化学、世界史の指導を通じて、一緒に成績アップを目指しましょう。",
-          "alumniOf": {"@type": "EducationalOrganization", "name": "東北大学医学部医学科"},
-          "hasOccupation": {"@type": "Occupation", "name": "医学部家庭教師", "skills": ["物理", "化学", "世界史", "成績向上"]},
-          "worksFor": {"@type": "Organization", "name": "医学部家庭教師掲示板"}
-        }
-        </script>
 
         <article class="tutor-card">
             <h3>横浜市立大学医学部 家庭教師：KK先生</h3>
@@ -265,17 +189,6 @@
             <p><strong>選択科目:</strong> 物化、公共政治経済</p>
             <p><strong>一言:</strong> 全力でサポートさせていただきます！宜しくお願いします。</p>
         </article>
-        <script type="application/ld+json">
-        {
-          "@context": "https://schema.org",
-          "@type": "Person",
-          "name": "KK",
-          "description": "横浜市立大学医学部1年のKKです。物理、化学、公共政治経済の指導で、合格まで全力でサポートします。",
-          "alumniOf": {"@type": "EducationalOrganization", "name": "横浜市立大学医学部"},
-          "hasOccupation": {"@type": "Occupation", "name": "医学部家庭教師", "skills": ["物理", "化学", "公共政治経済", "受験サポート"]},
-          "worksFor": {"@type": "Organization", "name": "医学部家庭教師掲示板"}
-        }
-        </script>
 
         <article class="tutor-card">
             <h3>東北大学医学部医学科 家庭教師：のりまき先生</h3>
@@ -283,17 +196,6 @@
             <p><strong>選択科目:</strong> 物理、化学、地理</p>
             <p><strong>一言:</strong> 合格に向けて頑張りましょう！</p>
         </article>
-        <script type="application/ld+json">
-        {
-          "@context": "https://schema.org",
-          "@type": "Person",
-          "name": "のりまき",
-          "description": "東北大学医学部医学科1年ののりまきです。物理、化学、地理の指導で、合格に向けて一緒に頑張りましょう。",
-          "alumniOf": {"@type": "EducationalOrganization", "name": "東北大学医学部医学科"},
-          "hasOccupation": {"@type": "Occupation", "name": "医学部家庭教師", "skills": ["物理", "化学", "地理", "合格指導"]},
-          "worksFor": {"@type": "Organization", "name": "医学部家庭教師掲示板"}
-        }
-        </script>
 
     </div>
 </section>
@@ -328,7 +230,6 @@
         color: #222;
     }
 </style>
-
 
 <section id="pricing">
   <h2>授業料金</h2>
