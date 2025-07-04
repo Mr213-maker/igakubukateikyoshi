@@ -88,7 +88,7 @@
     </div>
     <div class="card">
       <img src="IMG_2014.jpg" alt="Zoomを使った指導">
-      <h3>Zoomを用いたオンライン授業</h3>
+      <h3>オンライン授業</h3>
       <p>通塾不要。自宅で安心して受講可能です。</p>
     </div>
     <div class="card">
