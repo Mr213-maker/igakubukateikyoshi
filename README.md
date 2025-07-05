@@ -195,7 +195,7 @@
         <tr><td>480分</td><td>42,000円</td></tr>
         <tr><td>720分</td><td>51,000円</td></tr>
     </table>
-    <p style="text-align: center; margin-top: 15px;">※上記に加え、紹介手数料として20,000円（女性講師をご希望の場合は追加6,000円）を申し受けます。</p>
+    <p style="text-align: center; margin-top: 15px;">※上記に加え、紹介手数料として25,000円（女性講師をご希望の場合は追加6,000円）を申し受けます。</p>
 </section>
 
 <section id="trial_flow">
