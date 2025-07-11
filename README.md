@@ -140,47 +140,56 @@
     <div class="tutor-list">
         <article class="tutor-card">
             <h3>北海道大学医学部医学科 家庭教師：エゾニュウ先生</h3>
-            <p><strong>選択科目:</strong> 物理、化学、地理</p>
+            <p><strong>選択科目:</strong> 物理、化学　地理</p>
             <p><strong>一言:</strong> 一緒に頑張りましょう。</p>
         </article>
         <article class="tutor-card">
             <h3>岡山大学医学部 家庭教師：レイブル先生</h3>
-            <p><strong>選択科目:</strong> 物理化学、公共政経</p>
+            <p><strong>選択科目:</strong> 物理、化学　公共政経</p>
             <p><strong>一言:</strong> 頭の使い方を学び、頭をよくして合格しましょう！やり方をきちんと伝えます！特に多浪生のあなた！！</p>
         </article>
         <article class="tutor-card">
             <h3>東京科学大学 家庭教師：エグユ先生</h3>
-            <p><strong>選択科目:</strong> 物理／化学、地理</p>
+            <p><strong>選択科目:</strong> 物理、化学、地理</p>
             <p><strong>一言:</strong> 参考書で計画的に勉強し合格した経験を活かして、徹底的にサポートしていきます！よろしくお願いします！</p>
+        </article>
+         <article class="tutor-card">
+            <h3>京都大学医学部 家庭教師：ラット先生</h3>
+            <p><strong>選択科目:</strong> 物理、化学　地理</p>
+            <p><strong>一言:</strong> 1人1人にあったサポートができるように全力を尽くします！！</p>
+        </article> <article class="tutor-card">
+            <h3>山梨医学部 家庭教師：リュウ先生</h3>
+            <p><strong>選択科目:</strong> 物理、化学　地理</p>
+            <p><strong>一言:</strong> 頭の使い方を学び、頭をよくして合格しましょう！やり方をきちんと伝えます！特に多浪生のあなた！！</p>
         </article>
         <article class="tutor-card">
             <h3>大阪大学医学部医学科 家庭教師：KC先生</h3>
-            <p><strong>選択科目:</strong> 物化、地理選択</p>
+            <p><strong>選択科目:</strong> 物理、化学　地理</p>
             <p><strong>一言:</strong> 一緒に頑張りましょう</p>
         </article>
         <article class="tutor-card">
             <h3>大阪大学 家庭教師：KT先生</h3>
-            <p><strong>選択科目:</strong> 物理/化学、地理</p>
+            <p><strong>選択科目:</strong> 物理、化学　地理</p>
             <p><strong>一言:</strong> 一人一人に適した指導を行い、確実な学力アップを約束します。</p>
         </article>
         <article class="tutor-card">
             <h3>千葉大学医学部 家庭教師：RS先生</h3>
-            <p><strong>選択科目:</strong> 物理、化学、日本史</p>
+            <p><strong>選択科目:</strong> 物理、化学　日本史</p>
             <p><strong>一言:</strong> 数学を基礎から徹底的に教えるのが得意です。お力になられるように頑張ります！</p>
         </article>
         <article class="tutor-card">
             <h3>東北大学医学部医学科 家庭教師：ten先生</h3>
-            <p><strong>選択科目:</strong> 物理化学、世界史</p>
+            <p><strong>選択科目:</strong> 物理、化学　世界史</p>
             <p><strong>一言:</strong> 一緒に成績上げましょう！</p>
         </article>
         <article class="tutor-card">
             <h3>横浜市立大学医学部 家庭教師：KK先生</h3>
-            <p><strong>選択科目:</strong> 物化、公共政治経済</p>
+            <p><strong>選択科目:</strong> 物理、化学　公共政治経済</p>
             <p><strong>一言:</strong> 全力でサポートさせていただきます！宜しくお願いします。</p>
         </article>
         <article class="tutor-card">
             <h3>東北大学医学部医学科 家庭教師：のりまき先生</h3>
-            <p><strong>選択科目:</strong> 物理、化学、地理</p>
+            <p><strong>選択科目:</strong> 物理、化学　地理</p>
             <p><strong>一言:</strong> 合格に向けて頑張りましょう！</p>
         </article>
     </div>
