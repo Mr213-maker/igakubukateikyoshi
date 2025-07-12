@@ -199,10 +199,10 @@
     <h2>料金プラン</h2>
     <table class="pricing-table">
         <tr><th>月間授業時間</th><th>月額料金（税込）</th></tr>
-        <tr><td>240分</td><td>26,000円</td></tr>
-        <tr><td>360分</td><td>36,000円</td></tr>
-        <tr><td>480分</td><td>43,000円</td></tr>
-        <tr><td>720分</td><td>52,000円</td></tr>
+        <tr><td>240分</td><td>28,000円</td></tr>
+        <tr><td>360分</td><td>38,000円</td></tr>
+        <tr><td>480分</td><td>47,000円</td></tr>
+        <tr><td>720分</td><td>56,000円</td></tr>
     </table>
     <p style="text-align: center; margin-top: 15px;">※上記に加え、紹介手数料として25,000円（女性講師をご希望の場合は追加6,000円）を申し受けます。</p>
 </section>
