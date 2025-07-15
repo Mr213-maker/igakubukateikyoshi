@@ -100,28 +100,6 @@
     </div>
 </section>
 
-<section id="voice">
-    <h2>合格者の声</h2>
-    <div class="tutor-list">
-        <article class="tutor-card">
-            <h3>〇〇大学医学部 合格<br>A.Tさん</h3>
-            <p><strong>「苦手だった化学が得点源に！」</strong></p>
-            <p>現役医学生の先生だからこそ、つまずきやすいポイントを的確に理解してくれ、根本から丁寧に教えてもらえました。質問しやすい雰囲気もありがたかったです。</p>
-        </article>
-        <article class="tutor-card">
-            <h3>△△医科大学 合格<br>S.Kさん</h3>
-            <p><strong>「部活と両立して掴んだ合格」</strong></p>
-            <p>自分専用の学習計画を立ててもらったおかげで、忙しい中でも迷わず勉強に集中できました。オンラインなので移動時間がなく、効率的に学習を進められたのが良かったです。</p>
-        </article>
-        <article class="tutor-card">
-            <h3>保護者様より</h3>
-            <p><strong>「安心してお任せできました」</strong></p>
-            <p>毎月の指導報告書で子供の学習状況が詳しくわかり、安心感がありました。子供の性格に合った先生をマッチングしていただき、親子共々感謝しております。</p>
-        </article>
-    </div>
-</section>
-
-
 <section id="growth_reason">
     <h2>成績が伸びる理由</h2>
     <p style="text-align: center; max-width: 800px; margin: 0 auto 30px auto;">当サービスでは、生徒様の成績向上を確実なものにするため、以下の2つの柱で指導を行います。</p>
