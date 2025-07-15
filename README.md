@@ -2,16 +2,15 @@
 <html lang="ja">
 <head>
     <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-    <title>医学部家庭教師掲示板 | 現役医学生によるオンライン個別指導で医学部合格へ</title>
-    <meta name="description" content="現役医学生がオンラインで医学部受験を徹底サポート。個別最適化された学習計画と「わからない」を残さない徹底指導で、あなたの医学部合格を強力に支援します。通塾不要、低価格で質の高い指導を提供月額2.5万円〜。" />
-    <meta name="keywords" content="医学部, 家庭教師, 個別指導, オンライン, 医学部受験, 医学生, 合格, 対策, 予備校, 現役, 浪人, Zoom, 低価格, 指導" />
-
+    <title>【月額2.8万円〜】現役医学生のオンライン家庭教師｜医学部家庭教師掲示板</title>
+    <meta name="description" content="現役医学生が完全1対1で教えるオンライン家庭教師。あなた専用の学習計画で医学部合格へ導きます。苦手克服から志望校対策まで徹底サポート。まずは3,000円の体験授業から。" />
+    <meta name="keywords" content="医学部, 家庭教師, オンライン, 個別指導, 医学部受験, 医学生, 合格, 塾, 予備校" />
     <link rel="canonical" href="https://www.yourdomain.com/" />
 
-    <meta property="og:title" content="医学部家庭教師掲示板 | 現役医学生によるオンライン個別指導" />
-    <meta property="og:description" content="現役医学生がオンラインで医学部受験を徹底サポート。個別最適化された学習計画と「わからない」を残さない徹底指導で、あなたの医学部合格を強力に支援します。" />
+    <meta property="og:title" content="【月額2.8万円〜】現役医学生のオンライン家庭教師｜医学部家庭教師掲示板" />
+    <meta property="og:description" content="現役医学生が完全1対1で指導。あなた専用の学習計画で医学部合格へ導きます。苦手克服から志望校対策まで徹底サポート。" />
     <meta property="og:type" content="website" />
     <meta property="og:url" content="https://www.yourdomain.com/" />
     <meta property="og:image" content="https://www.yourdomain.com/images/ogp-image.jpg" />
@@ -20,48 +19,40 @@
 
     <meta name="twitter:card" content="summary_large_image" />
     <meta name="twitter:site" content="@your_twitter_account" />
-    <meta name="twitter:creator" content="@igakubu2025" />
-    <meta name="twitter:title" content="医学部家庭教師掲示板 | 現役医学生によるオンライン個別指導" />
-    <meta name="twitter:description" content="現役医学生がオンラインで医学部受験を徹底サポート。個別最適化された学習計画と「わからない」を残さない徹底指導で、あなたの医学部合格を強力に支援します。" />
+    <meta name="twitter:title" content="【月額2.8万円〜】現役医学生のオンライン家庭教師｜医学部家庭教師掲示板" />
+    <meta name="twitter:description" content="現役医学生が完全1対1で指導。あなた専用の学習計画で医学部合格へ導きます。苦手克服から志望校対策まで徹底サポート。" />
     <meta name="twitter:image" content="https://www.yourdomain.com/images/twitter-card-image.jpg" />
 
-    <style>
-        body { font-family: "Helvetica Neue", "Hiragino Kaku Gothic ProN", "Meiryo", sans-serif; margin: 0; background-color: #f5f9ff; color: #333; line-height: 1.7; }
-        header { background-color: #0077cc; color: white; padding: 25px 20px; text-align: center; }
-        h1 { margin: 0; font-size: 2em; }
-        header p { margin: 5px 0 0; font-size: 1.1em; }
-        nav { background-color: #005fa3; text-align: center; padding: 12px 0; position: sticky; top: 0; z-index: 1000; }
-        nav a { color: white; text-decoration: none; margin: 0 15px; font-weight: bold; font-size: 1em; }
-        section { padding: 40px 20px; max-width: 1000px; margin: 0 auto 25px auto; background-color: #fff; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.05); }
-        h2 { font-size: 1.8em; color: #005fa3; margin-bottom: 25px; border-bottom: 3px solid #0077cc; padding-bottom: 10px; text-align: center; }
-        h3 { font-size: 1.3em; color: #005fa3; border-bottom: 2px solid #e0e0e0; padding-bottom: 8px; margin-bottom: 15px; }
-        ul { padding-left: 20px; }
-        li { margin-bottom: 10px; }
-        .feature-cards { display: flex; flex-wrap: wrap; gap: 20px; justify-content: center; }
-        .card { background-color: #ffffff; border: 1px solid #e0e0e0; border-radius: 8px; width: 280px; padding: 20px; text-align: center; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); transition: transform 0.3s ease; }
-        .card:hover { transform: translateY(-5px); }
-        .card img { width: 100%; height: 180px; object-fit: cover; border-radius: 8px; margin-bottom: 15px; }
-        .section-img { max-width: 100%; height: auto; border-radius: 10px; margin-bottom: 20px; }
-        
-        /* Growth Reason Section - Diagram Style */
-        .growth-reason-container { display: flex; flex-wrap: wrap; gap: 30px; justify-content: center; }
-        .reason-pillar { flex: 1; min-width: 280px; background: #fafdff; padding: 25px; border-radius: 8px; border: 1px solid #dbeafe; }
-        .reason-pillar ul { list-style-type: '✓ '; padding-left: 20px; }
+    <link rel="stylesheet" href="style.css">
 
-        .tutor-list { display: grid; grid-template-columns: repeat(auto-fill, minmax(280px, 1fr)); gap: 20px; margin-top: 30px; }
-        .tutor-card { border: 1px solid #ddd; border-radius: 8px; padding: 20px; background-color: #fff; box-shadow: 0 2px 4px rgba(0,0,0,0.05); }
-        .tutor-card h3 { color: #005fa3; font-size: 1.2em; margin-top: 0; border: none; }
-        .pricing-table { width: 100%; border-collapse: collapse; margin: 20px 0; }
-        .pricing-table th, .pricing-table td { border: 1px solid #ccc; padding: 15px; text-align: center; }
-        .pricing-table th { background-color: #f2f2f2; }
-        .flow-steps { display: flex; flex-direction: column; gap: 20px; }
-        .flow-step { background: #f5f9ff; border-left: 5px solid #0077cc; padding: 20px; border-radius: 5px; }
-        .flow-step h3 { margin-top: 0; color: #005fa3; border: none; }
-        .contact-section { text-align: center; }
-        .contact-button { display: inline-block; background-color: #0077cc; color: white; font-weight: bold; padding: 15px 30px; border-radius: 5px; text-decoration: none; font-size: 18px; transition: background-color 0.3s; margin-top: 20px; }
-        .contact-button:hover { background-color: #005fa3; }
-        .footer { background-color: #333; color: white; text-align: center; padding: 20px; font-size: 14px; margin-top: 30px; }
-    </style>
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [{
+        "@type": "Question",
+        "name": "他のオンライン家庭教師との違いは何ですか？",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "当サービスは、講師が現役の医学生である点に最大の強みがあります。自身の成功体験に基づいた最新の受験情報と、生徒様の目線に立った質の高い指導を、低価格で提供しています。"
+        }
+      },{
+        "@type": "Question",
+        "name": "授業の振替は可能ですか？",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "はい、可能です。事前にご連絡いただければ、講師と相談の上、別の日時に振り替えることができますのでご安心ください。"
+        }
+      },{
+        "@type": "Question",
+        "name": "教材は何を使いますか？",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "基本的には生徒様がお持ちの教材を使用しますが、学習状況や目標に応じて、最適な市販の参考書や問題集を講師から提案させていただくことも可能です。"
+        }
+      }]
+    }
+    </script>
 </head>
 <body>
 
@@ -71,43 +62,65 @@
 </header>
 
 <nav>
-    <a href="#features">特徴</a>
-    <a href="#growth_reason">成績が伸びる理由</a>
+    <a href="#features">サービスの特徴</a>
+    <a href="#voice">お客様の声</a>
     <a href="#our-tutors">登録講師</a>
     <a href="#pricing">料金</a>
-    <a href="#trial_flow">体験授業の流れ</a>
-    <a href="#contact">お問い合わせ</a>
+    <a href="#faq">よくある質問</a>
+    <a href="https://example.com/blog">ブログ</a> <a href="#contact">お問い合わせ</a>
 </nav>
 
 <section id="hero">
-    <img src="IMG_2016.jpg" alt="医学生講師とオンラインで学習する生徒" class="section-img">
+    <img src="images/medical-student-online-tutor.jpg" alt="医学生講師とオンラインでマンツーマン学習をする高校生" class="section-img">
 </section>
 
 <section id="features">
     <h2>サービスの特徴</h2>
     <div class="feature-cards">
         <div class="card">
-            <img src="IMG_2013.jpg" alt="現役医学生による指導">
+            <img src="images/feature-top-student.jpg" alt="現役の医学生が自身の経験を元に指導している様子">
             <h3>現役医学生による指導</h3>
             <p>医学部在学中の講師が最新の知識で指導します。</p>
         </div>
         <div class="card">
-            <img src="IMG_2014.jpg" alt="Zoomを使った指導">
+            <img src="images/feature-online-zoom.jpg" alt="ノートパソコンのZoom画面を通して行われるオンライン授業">
             <h3>オンライン授業</h3>
             <p>通塾不要。自宅で安心して受講可能です。</p>
         </div>
         <div class="card">
-            <img src="IMG_2015.jpg" alt="低価格">
+            <img src="images/feature-low-price.jpg" alt="料金の安さをイメージさせるイラスト">
             <h3>無駄を省いた低価格</h3>
             <p>通塾コスト削減により価格を抑えました。</p>
         </div>
         <div class="card">
-            <img src="IMG_2012.jpg" alt="学習計画と報告書">
+            <img src="images/feature-study-plan.jpg" alt="学習計画が書かれたノートとペンの写真">
             <h3>学習計画と報告書</h3>
             <p>3ヶ月ごとの学習計画と月1回の報告書でサポート。</p>
         </div>
     </div>
 </section>
+
+<section id="voice">
+    <h2>合格者の声</h2>
+    <div class="tutor-list">
+        <article class="tutor-card">
+            <h3>〇〇大学医学部 合格<br>A.Tさん</h3>
+            <p><strong>「苦手だった化学が得点源に！」</strong></p>
+            <p>現役医学生の先生だからこそ、つまずきやすいポイントを的確に理解してくれ、根本から丁寧に教えてもらえました。質問しやすい雰囲気もありがたかったです。</p>
+        </article>
+        <article class="tutor-card">
+            <h3>△△医科大学 合格<br>S.Kさん</h3>
+            <p><strong>「部活と両立して掴んだ合格」</strong></p>
+            <p>自分専用の学習計画を立ててもらったおかげで、忙しい中でも迷わず勉強に集中できました。オンラインなので移動時間がなく、効率的に学習を進められたのが良かったです。</p>
+        </article>
+        <article class="tutor-card">
+            <h3>保護者様より</h3>
+            <p><strong>「安心してお任せできました」</strong></p>
+            <p>毎月の指導報告書で子供の学習状況が詳しくわかり、安心感がありました。子供の性格に合った先生をマッチングしていただき、親子共々感謝しております。</p>
+        </article>
+    </div>
+</section>
+
 
 <section id="growth_reason">
     <h2>成績が伸びる理由</h2>
@@ -139,58 +152,21 @@
     <p>当掲示板には、医学部受験を熟知した経験豊富な家庭教師が多数登録しています。現役医大生からプロ講師まで、あなたの学習を強力にサポートします。</p>
     <div class="tutor-list">
         <article class="tutor-card">
-            <h3>北海道大学医学部医学科 家庭教師：エゾニュウ先生</h3>
-            <p><strong>選択科目:</strong> 物理、化学　地理</p>
+            <h3>北海道大学医学部医学科 エゾニュウ先生</h3>
+            <p><strong>得意科目:</strong> 数学(IA〜III), 物理, 化学</p>
+            <p><strong>指導方針:</strong> 基礎の徹底理解から応用問題への橋渡しを重視します。</p>
             <p><strong>一言:</strong> 一緒に頑張りましょう。</p>
         </article>
         <article class="tutor-card">
-            <h3>岡山大学医学部 家庭教師：レイブル先生</h3>
-            <p><strong>選択科目:</strong> 物理、化学　公共政経</p>
+            <h3>岡山大学医学部 レイブル先生</h3>
+            <p><strong>得意科目:</strong> 英語, 数学, 化学</p>
+            <p><strong>指導方針:</strong> 多浪経験を活かし、メンタル面もサポートします。</p>
             <p><strong>一言:</strong> 頭の使い方を学び、頭をよくして合格しましょう！やり方をきちんと伝えます！特に多浪生のあなた！！</p>
         </article>
         <article class="tutor-card">
-            <h3>東京科学大学 家庭教師：エグユ先生</h3>
+            <h3>東京科学大学 エグユ先生</h3>
             <p><strong>選択科目:</strong> 物理、化学、地理</p>
             <p><strong>一言:</strong> 参考書で計画的に勉強し合格した経験を活かして、徹底的にサポートしていきます！よろしくお願いします！</p>
-        </article>
-         <article class="tutor-card">
-            <h3>京都大学医学部 家庭教師：ラット先生</h3>
-            <p><strong>選択科目:</strong> 物理、化学　地理</p>
-            <p><strong>一言:</strong> 1人1人にあったサポートができるように全力を尽くします！！</p>
-        </article> <article class="tutor-card">
-            <h3>山梨医学部 家庭教師：リュウ先生</h3>
-            <p><strong>選択科目:</strong> 物理、化学　地理</p>
-            <p><strong>一言:</strong> 頭の使い方を学び、頭をよくして合格しましょう！やり方をきちんと伝えます！特に多浪生のあなた！！</p>
-        </article>
-        <article class="tutor-card">
-            <h3>大阪大学医学部医学科 家庭教師：KC先生</h3>
-            <p><strong>選択科目:</strong> 物理、化学　地理</p>
-            <p><strong>一言:</strong> 一緒に頑張りましょう</p>
-        </article>
-        <article class="tutor-card">
-            <h3>大阪大学 家庭教師：KT先生</h3>
-            <p><strong>選択科目:</strong> 物理、化学　地理</p>
-            <p><strong>一言:</strong> 一人一人に適した指導を行い、確実な学力アップを約束します。</p>
-        </article>
-        <article class="tutor-card">
-            <h3>千葉大学医学部 家庭教師：RS先生</h3>
-            <p><strong>選択科目:</strong> 物理、化学　日本史</p>
-            <p><strong>一言:</strong> 数学を基礎から徹底的に教えるのが得意です。お力になられるように頑張ります！</p>
-        </article>
-        <article class="tutor-card">
-            <h3>東北大学医学部医学科 家庭教師：ten先生</h3>
-            <p><strong>選択科目:</strong> 物理、化学　世界史</p>
-            <p><strong>一言:</strong> 一緒に成績上げましょう！</p>
-        </article>
-        <article class="tutor-card">
-            <h3>横浜市立大学医学部 家庭教師：KK先生</h3>
-            <p><strong>選択科目:</strong> 物理、化学　公共政治経済</p>
-            <p><strong>一言:</strong> 全力でサポートさせていただきます！宜しくお願いします。</p>
-        </article>
-        <article class="tutor-card">
-            <h3>東北大学医学部医学科 家庭教師：のりまき先生</h3>
-            <p><strong>選択科目:</strong> 物理、化学　地理</p>
-            <p><strong>一言:</strong> 合格に向けて頑張りましょう！</p>
         </article>
     </div>
 </section>
@@ -198,13 +174,17 @@
 <section id="pricing">
     <h2>料金プラン</h2>
     <table class="pricing-table">
-        <tr><th>月間授業時間</th><th>月額料金（税込）</th></tr>
-        <tr><td>240分</td><td>28,000円</td></tr>
-        <tr><td>360分</td><td>38,000円</td></tr>
-        <tr><td>480分</td><td>47,000円</td></tr>
-        <tr><td>720分</td><td>56,000円</td></tr>
+        <thead>
+            <tr><th>月間授業時間</th><th>月額料金（税込）</th></tr>
+        </thead>
+        <tbody>
+            <tr><td>240分 (週60分)</td><td>28,000円</td></tr>
+            <tr><td>360分 (週90分)</td><td>38,000円</td></tr>
+            <tr><td>480分 (週120分)</td><td>47,000円</td></tr>
+            <tr><td>720分 (週180分)</td><td>56,000円</td></tr>
+        </tbody>
     </table>
-    <p style="text-align: center; margin-top: 15px;">※上記に加え、紹介手数料として25,000円（女性講師をご希望の場合は追加6,000円）を申し受けます。</p>
+    <p style="text-align: center; margin-top: 15px;">※上記に加え、初回のみ紹介手数料として25,000円（女性講師をご希望の場合は追加6,000円）を申し受けます。</p>
 </section>
 
 <section id="trial_flow">
@@ -229,6 +209,24 @@
         <div class="flow-step">
             <h3>STEP 5：ご契約・本授業スタート</h3>
             <p>体験授業にご満足いただけましたら、ご契約手続きに進みます。その後、担当講師との本授業がスタートします。</p>
+        </div>
+    </div>
+</section>
+
+<section id="faq">
+    <h2>よくある質問</h2>
+    <div class="faq-container">
+        <div class="faq-item">
+            <h3>他のオンライン家庭教師との違いは何ですか？</h3>
+            <p>当サービスは、講師が現役の医学生である点に最大の強みがあります。自身の成功体験に基づいた最新の受験情報と、生徒様の目線に立った質の高い指導を、低価格で提供しています。</p>
+        </div>
+        <div class="faq-item">
+            <h3>授業の振替は可能ですか？</h3>
+            <p>はい、可能です。事前にご連絡いただければ、講師と相談の上、別の日時に振り替えることができますのでご安心ください。</p>
+        </div>
+        <div class="faq-item">
+            <h3>教材は何を使いますか？</h3>
+            <p>基本的には生徒様がお持ちの教材を使用しますが、学習状況や目標に応じて、最適な市販の参考書や問題集を講師から提案させていただくことも可能です。</p>
         </div>
     </div>
 </section>
