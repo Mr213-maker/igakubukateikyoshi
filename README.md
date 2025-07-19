@@ -138,6 +138,11 @@
     <h2>登録講師のご紹介</h2>
     <p>当掲示板には、医学部受験を熟知した経験豊富な家庭教師が多数登録しています。現役医大生からプロ講師まで、あなたの学習を強力にサポートします。</p>
     <div class="tutor-list">
+        </article> <article class="tutor-card">
+            <h3>千葉大学医学部　家庭教師：あやか先生</h3>
+            <p><strong>選択科目:</strong> 生物、化学　倫理政治経済</p>
+            <p><strong>一言:</strong> 豊富な指導経験をもとに一人一人にあった指導を提供します。</p>
+        </article>
         <article class="tutor-card">
             <h3>北海道大学医学部医学科 家庭教師：エゾニュウ先生</h3>
             <p><strong>選択科目:</strong> 物理、化学　地理</p>
