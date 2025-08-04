@@ -156,9 +156,3 @@
 </html>
 """
 
-# 保存
-file_path = "/mnt/data/igakubu-kateikyoshi-full-version.html"
-with open(file_path, "w", encoding="utf-8") as f:
-    f.write(html_full_version)
-
-file_path
